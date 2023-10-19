@@ -71,6 +71,7 @@ li {
     width: 100px;
     border-radius: 4px;
     padding: 8px 18px;
+    border-color: white;
 }
 
 .right-main {
@@ -126,6 +127,8 @@ img {
 .text {
     margin: 0;
     padding: 10px;
+    width: 200px;
+    text-align: center;
 }
 
 .quote {
@@ -183,9 +186,15 @@ img {
 }
 
 .a1 {
+    margin: 0;
+    padding: 0;
     font-size: 20px;
     font-weight: 700;
-    /*行間の隙間が大きい*/
+}
+
+.a2 {
+    margin: 0;
+    padding: 0;
 }
 
 .footer {
