@@ -1,7 +1,6 @@
 body {
     margin: 0;
     font-family: "serif";
-
 }
 
 .main-content {
@@ -72,6 +71,7 @@ li {
     border-radius: 4px;
     padding: 8px 18px;
     border-color: white;
+    border-style: solid;
 }
 
 .right-main {
@@ -137,7 +137,6 @@ img {
     background-color: #E5E7EB;
     font-size: 36px;
     padding: 100px;
-    /*light italicにしても太いままになる*/
 }
 
 .context {
@@ -179,9 +178,11 @@ img {
     background-color: #3882F6;
     color: white;
     width: 100px;
+    border-style: solid;
     border-radius: 8px;
     padding: 8px 15px;
     border-color: white;
+    border-width: 2px;
     margin: 50px;
 }
 
